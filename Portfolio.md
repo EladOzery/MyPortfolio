@@ -1,6 +1,6 @@
 # Portfolio – Elad Ozery
 
-Final-year Software Engineering student at Azrieli College of Engineering. Passionate about system programming, backend development, and working with languages like C++ and Python. Seeking an entry-level position where I can grow professionally and contribute meaningfully to a development team.
+Final-year Software Engineering student at Azrieli College of Engineering. Passionate about programming, frontend/backend development, and working with languages like C++, Java and Python. Seeking an entry-level position where I can grow professionally and contribute meaningfully to a development team.
 
 ---
 
@@ -22,7 +22,7 @@ A standalone desktop application designed to detect cheating behavior in video g
 
 - Technologies: Python, YOLOv5, OpenCV, CustomTkinter
 - Features: Real-time detection, image/video support, live GUI preview, modular structure
-- GitHub: Private (available upon request)
+- GitHub: Private
 
 ![Screenshot of Anti-Cheat Detection GUI](./images/anti_cheat_gui.png)
 
@@ -63,12 +63,13 @@ A chat server simulator that supports multiple concurrent client connections usi
 ---
 
 ## About Me
-- Software Engineering student at Azrieli College of Engineering
-- Interested in system-level programming, backend development, and computer networking
-- Skilled in C, C++, Python, socket programming, multi-threading, and web technologies
+- 4th Year Software Engineering student at Azrieli College of Engineering
+- Interested in Web development, Networks and Cyber
+- Skilled in C, C++, Python, Java, socket programming, multi-threading, and web technologies
 
 ---
 
 ## Contact
 - GitHub: https://github.com/EladOzery
+- LinkedIn: https://www.linkedin.com/in/elad-ozery-a71b88223/
 - Email: eladozery2@gmail.com
